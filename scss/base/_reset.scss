@@ -1,0 +1,77 @@
+// principio de web
+html {
+    font-size: 62.5%;
+
+    .logo {
+        width: 130px;
+    }
+
+    .nav-link {
+        color: white;
+    }
+
+    .nav-class {
+        background-color: #68352d;
+    }
+}
+
+.presentacion {
+    background-color: #943126;
+    color: white;
+    justify-content: center;
+}
+
+
+.footer {
+    background-color: grey;
+    color: white;
+    height: 13vh;
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+
+    p {
+        height: 10vh;
+        font-size: 1.5rem;
+        text-align: center;
+    }
+}
+
+
+.presentacion {
+    height: 4vh;
+        font-size: 1.5rem;
+        text-align: center;
+    
+}
+
+// redes en toda la web
+
+.redes {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin-top: 1rem;
+    flex-wrap: wrap;
+    justify-content: center;
+
+    i {
+        font-size: 3rem;
+    }
+
+    .instagram,
+    .whatsapp {
+        margin-top: 1rem;
+        color: #fff;
+        padding: 0.7rem;
+        border-radius: 30%;
+    }
+
+    .instagram {
+        background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+    }
+
+    .whatsapp {
+        background-color: #128C7E;
+    }
+}

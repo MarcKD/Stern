@@ -1,0 +1,21 @@
+//utilities y base
+
+@import "./utilities/variables";
+
+@import "./base/reset";
+@import "./base/tipografias";
+
+//components
+@import "./componentes/buttons";
+
+//layout
+@import "./layout/footer";
+@import "./layout/navigation";
+@import "./layout/header";
+
+//views
+@import "./views/home";
+@import "./views/contacto";
+@import "./views/almuerzos";
+@import "./views/desayunos";
+@import "./views/postres-bebidas";
