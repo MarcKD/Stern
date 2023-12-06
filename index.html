@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Inicio-Stern</title>
+    <!-- para sincronizar con Bootstrap-->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <!-- para sincronizar con CSS-->
+    <link rel="stylesheet" href="./css/style.css">
+    <!-- para que el logo se visualice en WEB-->
+    <link rel="shortcut icon" href="./img/favicon-32x32.png" type="image/x-icon">
+</head>
+
+<body>
+
+    <!--menú de Bootstrap-->
+    <nav class="navbar navbar-expand-lg bg-secondary">
+        <div class="container">
+            <a class="navbar-brand" href="./index.html"><img class="logo" src="./img/logo.png" alt="Logo Stern"></a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup"
+                aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon bg-white"></span>
+            </button>
+            <div class="collapse navbar-collapse justify-content-center" id="navbarNavAltMarkup">
+                <div class="navbar-nav align-items-center">
+                    <a class="nav-link" href="./pages/contacto.html">Contacto</a>
+                    <a class="nav-link" href="./pages/desayunos.html">Desayuno</a>
+                    <a class="nav-link" href="./pages/almuerzos.html">Almuerzo</a>
+                    <a class="nav-link" href="./pages/postres-y-bebidas.html">Postres y Bebidas</a>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <!-- carousel-->
+    <div id="carouselExampleInterval" class="carousel slide container mt-4" data-bs-ride="carousel">
+        <div class="carousel-inner">
+            <div class="carousel-item active" data-bs-interval="3000">
+                <img src="./img/banner.jpg" class="d-block w-100" alt="banner">
+            </div>
+            <div class="carousel-item" data-bs-interval=3000">
+                <img src="./img/banner2.jpg" class="d-block w-100" alt="banner2">
+            </div>
+            <div class="carousel-item">
+                <img src="./img/banner3.jpg" class="d-block w-100" alt="banner3">
+            </div>
+        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleInterval"
+            data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleInterval"
+            data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+        </button>
+
+        <!-- Titulo bajo el carrusel-->
+        
+            <div class="presentacion">
+                <p>
+                    Platos de la Semana
+                </p>
+            </div>
+        
+        <!-- MEJORES PLATOS-->
+    <section class="container">
+        <article class="row justify-content-center mt-4 gap-3">
+            <div class="card col-8 col-sm-5 col-xl-3">
+                <img src="./img/spaguetti.png" class="card-img-top" alt="spaguetti">
+                <div class="card-body">
+                    <h5 class="card-title">Spaguetti</h5>
+                    <p class="card-text">Salteado con rúcula, tomate y parmesano.</p>
+                    <a href="#" class="btn btn-primary">Go somewhere</a>
+                </div>
+            </div>
+            <div class="card col-8 col-sm-5 col-xl-3">
+                <img src="./img/Huevos-Benedict.png" class="card-img-top" alt="Huevos-Benedict">
+                <div class="card-body">
+                    <h5 class="card-title">Huevos Benedict</h5>
+                    <p class="card-text">dos huevos Poche sobre tosatadas con jamon y bañados en suave Salsa Holandesa.
+                    </p>
+                    <a href="#" class="btn btn-primary">Go somewhere</a>
+                </div>
+            </div>
+            <div class="card col-8 col-sm-5 col-xl-3">
+                <img src="./img/desayuno.jpeg" class="card-img-top" alt="...">
+                <div class="card-body">
+                    <h5 class="card-title">Sandwich</h5>
+                    <p class="card-text">Bagel de palta y queso brie.</p>
+                    <a href="#" class="btn btn-primary">Go somewhere</a>
+                </div>
+        </article>
+    </section>
+
+    </div>
+    <footer class="footer">
+
+        <!--caja de redes-->
+        <div class="box__footer">
+            
+            <div class="redes">
+                
+                <p>copyright todos los derechos reservados</p>
+                
+                <a class="instagram" href="https://www.instagram.com/stern_ba/" target="_blank">
+                    <i class="fa-brands fa-instagram"></i>
+                </a>
+
+                <a class="whatsapp" href="https://crear.wa.link/" target="_blank">
+                    <i class="fa-brands fa-whatsapp"></i>
+                </a>
+
+            </div>
+
+        </div>
+
+
+        
+
+    </footer>
+
+    <!-- link para que el logo se visualice en WEB-->
+    <script src="https://kit.fontawesome.com/2d04d38fa2.js" crossorigin="anonymous"></script>
+    <!-- link para utilizar Bootstrap-->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
+        crossorigin="anonymous"></script>
+</body>
+
+</html>
