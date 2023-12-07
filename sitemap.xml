@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://github.com/MarcKD/Stern</loc>
+  <lastmod>2023-12-07T06:04:31+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcKD/Stern/issues</loc>
+  <lastmod>2023-12-07T06:04:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcKD/Stern/pulls</loc>
+  <lastmod>2023-12-07T06:04:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcKD/Stern/actions</loc>
+  <lastmod>2023-12-07T06:04:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcKD/Stern/projects?query=is%3Aopen</loc>
+  <lastmod>2023-12-07T06:04:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcKD/Stern/security</loc>
+  <lastmod>2023-12-07T06:04:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcKD/Stern/commit/450671c221cd301e4a447a0dc0936d2a8d33d4c3</loc>
+  <lastmod>2023-12-07T06:04:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcKD/Stern/releases</loc>
+  <lastmod>2023-12-07T06:04:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcKD/Stern/labels</loc>
+  <lastmod>2023-12-07T06:04:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcKD/Stern/milestones</loc>
+  <lastmod>2023-12-07T06:04:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcKD/Stern/compare</loc>
+  <lastmod>2023-12-07T06:04:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcKD/Stern/actions/workflows/pages/pages-build-deployment</loc>
+  <lastmod>2023-12-07T06:04:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcKD/Stern/actions/caches</loc>
+  <lastmod>2023-12-07T06:04:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcKD/Stern/actions/runs/7124113453</loc>
+  <lastmod>2023-12-07T06:04:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcKD/Stern/actions/runs/6857810997</loc>
+  <lastmod>2023-12-07T06:04:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcKD/Stern/actions/runs/6700110747</loc>
+  <lastmod>2023-12-07T06:04:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcKD/Stern/labels?sort=name-asc</loc>
+  <lastmod>2023-12-07T06:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcKD/Stern/labels?sort=name-desc</loc>
+  <lastmod>2023-12-07T06:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcKD/Stern/labels?sort=count-desc</loc>
+  <lastmod>2023-12-07T06:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcKD/Stern/labels?sort=count-asc</loc>
+  <lastmod>2023-12-07T06:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcKD/Stern/labels/bug</loc>
+  <lastmod>2023-12-07T06:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcKD/Stern/labels/documentation</loc>
+  <lastmod>2023-12-07T06:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcKD/Stern/labels/duplicate</loc>
+  <lastmod>2023-12-07T06:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcKD/Stern/labels/enhancement</loc>
+  <lastmod>2023-12-07T06:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcKD/Stern/labels/good%20first%20issue</loc>
+  <lastmod>2023-12-07T06:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcKD/Stern/labels/help%20wanted</loc>
+  <lastmod>2023-12-07T06:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcKD/Stern/labels/invalid</loc>
+  <lastmod>2023-12-07T06:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcKD/Stern/labels/question</loc>
+  <lastmod>2023-12-07T06:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcKD/Stern/labels/wontfix</loc>
+  <lastmod>2023-12-07T06:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcKD/Stern/milestones?state=open</loc>
+  <lastmod>2023-12-07T06:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcKD/Stern/milestones?state=closed</loc>
+  <lastmod>2023-12-07T06:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcKD/Stern/milestones?direction=desc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2023-12-07T06:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcKD/Stern/milestones?direction=asc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2023-12-07T06:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcKD/Stern/milestones?direction=asc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2023-12-07T06:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcKD/Stern/milestones?direction=desc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2023-12-07T06:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcKD/Stern/milestones?direction=asc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2023-12-07T06:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcKD/Stern/milestones?direction=desc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2023-12-07T06:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcKD/Stern/milestones?direction=desc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2023-12-07T06:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcKD/Stern/milestones?direction=asc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2023-12-07T06:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcKD/Stern/actions/caches?query=sort%3Aaccessed-desc</loc>
+  <lastmod>2023-12-07T06:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcKD/Stern/actions/caches?query=sort%3Aaccessed-asc</loc>
+  <lastmod>2023-12-07T06:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcKD/Stern/actions/caches?query=sort%3Acreated-desc</loc>
+  <lastmod>2023-12-07T06:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcKD/Stern/actions/caches?query=sort%3Acreated-asc</loc>
+  <lastmod>2023-12-07T06:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcKD/Stern/actions/caches?query=sort%3Asize-desc</loc>
+  <lastmod>2023-12-07T06:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcKD/Stern/actions/caches?query=sort%3Asize-asc</loc>
+  <lastmod>2023-12-07T06:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcKD/Stern/actions/runs/7124113453/job/19397850298</loc>
+  <lastmod>2023-12-07T06:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcKD/Stern/actions/runs/7124113453/job/19397857719</loc>
+  <lastmod>2023-12-07T06:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcKD/Stern/actions/runs/7124113453/job/19397857868</loc>
+  <lastmod>2023-12-07T06:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcKD/Stern/actions/runs/7124113453/usage</loc>
+  <lastmod>2023-12-07T06:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcKD/Stern/commit/e6e2f945c3cf7c828004a8108e447dc8cd1ebaa5</loc>
+  <lastmod>2023-12-07T06:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcKD/Stern/actions/runs/6857810997/job/18647556568</loc>
+  <lastmod>2023-12-07T06:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcKD/Stern/actions/runs/6857810997/job/18647567591</loc>
+  <lastmod>2023-12-07T06:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcKD/Stern/actions/runs/6857810997/job/18647567757</loc>
+  <lastmod>2023-12-07T06:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcKD/Stern/actions/runs/6857810997/usage</loc>
+  <lastmod>2023-12-07T06:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcKD/Stern/commit/d42b9bdf7bb054722bf9df8a533e85690a22c81e</loc>
+  <lastmod>2023-12-07T06:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcKD/Stern/actions/runs/6700110747/job/18205476684</loc>
+  <lastmod>2023-12-07T06:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcKD/Stern/actions/runs/6700110747/job/18205484402</loc>
+  <lastmod>2023-12-07T06:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcKD/Stern/actions/runs/6700110747/job/18205484503</loc>
+  <lastmod>2023-12-07T06:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcKD/Stern/actions/runs/6700110747/usage</loc>
+  <lastmod>2023-12-07T06:04:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcKD/Stern/milestones?direction=desc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2023-12-07T06:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcKD/Stern/milestones?direction=asc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2023-12-07T06:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcKD/Stern/milestones?direction=asc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2023-12-07T06:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcKD/Stern/milestones?direction=desc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2023-12-07T06:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcKD/Stern/milestones?direction=asc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2023-12-07T06:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcKD/Stern/milestones?direction=desc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2023-12-07T06:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcKD/Stern/milestones?direction=desc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2023-12-07T06:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcKD/Stern/milestones?direction=asc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2023-12-07T06:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/MarcKD/Stern/commit/7c6bd4bfb610cfa98de205a24060288b6c8ba990</loc>
+  <lastmod>2023-12-07T06:04:31+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+
+
+</urlset>
