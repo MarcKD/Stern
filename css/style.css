@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @import url("https://fonts.googleapis.com/css2? family= Roboto & display=swap");
 html {
   font-size: 62.5%;
@@ -81,3 +82,72 @@ html .nav-class {
 }
 
 /*# sourceMappingURL=style.css.map */
+=======
+/* 1 rem y en equivale a 10px*/
+html{
+    font-size: 62.5%;
+}
+
+
+.logo{
+    width: 130px;
+}
+
+.nav-link{
+    color: white;
+}
+
+/*NECESITO CAMBIAR EL COLOR DE FOOTER Y NO PUEDO
+.nav-class{
+    background-color: #68352d;
+}*/
+
+
+.footer{
+background-color: grey;
+color: white;
+height: 12vh;
+display: flex;
+justify-content: center;
+margin-top: 100px;
+}
+
+.footer p {
+    height: 10vh;
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+/* redes */
+
+.redes {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin-top: 2rem;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+i {
+    font-size: 3rem;
+}
+
+.facebook, .instagram, .whatsapp {
+    color: #fff;
+    padding: 1rem;
+    border-radius: 30%;
+}
+
+.facebook {
+    background-color:rgb(15, 15, 196) ;
+}
+
+.instagram {
+    background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);
+}
+
+.whatsapp {
+    background-color: #128C7E;
+}
+>>>>>>> 450671c221cd301e4a447a0dc0936d2a8d33d4c3
